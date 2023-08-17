@@ -7,7 +7,7 @@ To run the program follow the following steps :
 
 2 : Open a integrated terminal from vs code for the following program and execute this command : " pip install qrcode[pil] " .
 
-3 : After succesfully installing qrcode package from pip you can execute th3e program .
+3 : After succesfully installing qrcode package from pip you can execute the program .
 
 
 This program is independent to use , you can use it in your own software and projects.
